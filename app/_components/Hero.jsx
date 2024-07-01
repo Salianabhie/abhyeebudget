@@ -27,7 +27,7 @@ function Hero() {
           className="block w-full rounded px-12 py-3 text-sm font-medium text-primary shadow hover:text-orange-700 focus:outline-none focus:ring active:text-orange-500 sm:w-auto"
           href="#"
         >
-          Learn More
+          Create by salianabhie       
         </a>
       </div>
     </div>
